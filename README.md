@@ -10,7 +10,8 @@ Introduction
 
 Personal information
 
-My name is lili el khalil Born in 03 august 1998, my birthday is in 4 days !! My status in Canada is as an International student
+My name is lili el khalil
+My status in Canada is as an International student
 
 Educational backgroung
 
