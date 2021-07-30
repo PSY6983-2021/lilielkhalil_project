@@ -11,7 +11,6 @@ Introduction
 Personal information
 
 My name is lili el khalil
-My status in Canada is as an International student
 
 Educational backgroung
 
@@ -19,7 +18,7 @@ Till present : i'm doing my masters in psychology at UdeM I Did my bachelor in c
 
 Working Experience :
 
-I Can say that i totally work in a different field than my study ! I do have more as administratif and finance experience.
+I Can say that i totally work in a different field than my study ! I had more experience in administratif and finance.
 
 Hobbies:
 
