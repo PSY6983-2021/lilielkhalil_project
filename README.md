@@ -15,4 +15,4 @@ Which means to be able to analyse my research data results later on.
 
 In my research Laboratory i was only working with Matlab, but in BrainHack School i had the opportunity to discover more than one application and method
 
-You can find me on Github at 
+You can find me on Github at https://github.com/lilielkhalil
