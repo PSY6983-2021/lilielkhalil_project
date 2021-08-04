@@ -4,23 +4,15 @@
    <br /><sub><b>Lili El Khalil</b></sub>
 </a>
 
-Hello, This is my first article
+Hello !!
 
-Introduction
+My name is Lili El Khalil,
+I am in my first year of master student at University of Montreal studying psychology.
+I am a research assistant with Marie Audrey Lavoie in the visual neurocognition laboratory.
 
-Personal information
+When joining the BrainHack School, i was looking farward in particular to know more about data analyses
+Which means to be able to analyse my research data results later on.
 
-My name is lili el khalil
+In my research Laboratory i was only working with Matlab, but in BrainHack School i had the opportunity to discover more than one application and method
 
-Educational backgroung
-
-Till present : i'm doing my masters in psychology at UdeM I Did my bachelor in clinical psychology in Lebanon and i wish to continue my doctorate in Canada also in clinical psychology
-
-Working Experience :
-
-I Can say that i totally work in a different field than my study ! I had more experience in administratif and finance.
-
-Hobbies:
-
-swimming
-Playing Piano
+You can find me on Github at 
