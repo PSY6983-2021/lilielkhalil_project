@@ -18,4 +18,4 @@ Which means to be able to analyse my research data results later on.
 In my research Laboratory i was only working with Matlab and my university courses was only about HTML.
 But in BrainHack School i had the opportunity to discover more than one application and method.
 
-You can join me on GitHub at [lilielkhalil](https://github.com/lilielkhalil)or by mail at <lilykhalil98@gmail.com>
+You can join me on GitHub at [lilielkhalil](https://github.com/lilielkhalil) or by mail at <lilykhalil98@gmail.com>
